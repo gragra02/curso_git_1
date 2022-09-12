@@ -2,3 +2,4 @@ Funcionalidade x
 Funcionalidade x2
 Funcionalidade x3
 Funcionalidade x4.1
+Funcionalidade x5
